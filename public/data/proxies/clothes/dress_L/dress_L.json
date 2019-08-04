@@ -27,7 +27,7 @@
 	"colorDiffuse" : [0.6347, 0.01177, 0.64],
 	"colorEmissive" : [0.0, 0.0, 0.0],
 	"colorSpecular" : [0.5, 0.5, 0.5],
-	"mapDiffuse" : "textures\leaf.jpg",
+	"mapDiffuse" : "textures/leaf.jpg",
 	"opacity" : 1.0,
 	"shading" : "phong",
 	"specularCoef" : 0.0,
