@@ -251,6 +251,7 @@ proxies.keys()
 
 outdir = Path(tempfile.mkdtemp(suffix='Convert_proxy_to_threejs_json'))
 rig_file = 'data/rigs/default.mhskel'
+outdir = Path(os.path.abspath("../../public/data/"))
 print(outdir)
 import material
 
